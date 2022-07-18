@@ -1,0 +1,86 @@
+.navigation ul li{
+    display: inline-block;
+   padding-left :20px;
+}
+
+.logo h3{
+    margin:0px;
+    font-family: 'Macondo', cursive;
+    margin-top: 3px;
+}
+.logo ul{
+    margin:0px;
+}
+.navigation{
+    text-align: right;
+    margin-top: 3px;  
+    background-color: rgb(200, 200, 241);
+}
+
+.log{
+    position: absolute;
+    top: 30px;
+    right: 100px;
+    background-color: lightcyan;
+    border-radius: 20px;
+   
+}
+.log a{
+    
+    font-size: 18px;
+    padding: 10px;
+    transition: 0.5s;
+    color: lightskyblue
+}
+a:hover {
+    color: black;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.banner{
+    padding: 0;
+}
+ul{
+    margin: 0;
+}
+p{
+    align-items: justify;
+}
+.main img{
+width:100%;
+    
+
+}
+.tmar{
+    margin-top: 20px;
+}
+#phys{
+    height:400px;
+}
+.footer{
+padding:30px;    
+
+background-color: rgb(200, 200, 241);
+
+}
+.mainlog{
+    height:500px;
+}
+.logbox{
+    padding:50px;
+    margin:10px;
+}
+.logbox input{
+    margin:20px;
+}
+.addpat input{
+    margin:10px;
+    margin-left: 60px;
+    width: 50%;
+    padding:5px;
+    border-radius: 10px;
+}
+.button{
+    color:blue;
+    width: 100px;
+}
